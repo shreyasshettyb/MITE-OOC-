@@ -1,4 +1,4 @@
-package bank_case;
+package Bank_case;
 
 public class BankA extends Bank {
 	int bal;

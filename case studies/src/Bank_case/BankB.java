@@ -1,6 +1,6 @@
-package bank_case;
+package Bank_case;
 
-public class BankC {
+public class BankB extends Bank {
 	int bal;
 	void getBalance(int x)
 	{
