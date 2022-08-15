@@ -14,7 +14,7 @@ public class Area_Demo {
 		System.out.println("Enter Length Of Square:");
 		s=sc.nextFloat();
 		a.RectangleArea(l, b);
-		a.CircleAreaa(r);
+		a.CircleArea(r);
 		a.SquareArea(s);
 	}
 

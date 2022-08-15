@@ -9,7 +9,7 @@ public class Area extends Shape {
 	{
 		System.out.println("Area Of Square: "+s*s);
 	}
-	void CircleAreaa(float r)
+	void CircleArea(float r)
 	{	double  pi= 3.14;
 		System.out.println("Area Of Circle: "+pi*r*r);
 	}
